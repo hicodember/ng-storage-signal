@@ -1,0 +1,8 @@
+{
+  "threshold": 0.75,
+  "hold_days": 5,
+  "cost_bps": 5.0,
+  "vol_target": 0.2,
+  "max_leverage": 2.0,
+  "chosen_on": "reports before 2019-01-01"
+}
